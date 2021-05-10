@@ -10,6 +10,14 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  http: ^0.12.0+2
+  flutter_zoom_drawer: ^1.0.5
+  flutter_slider_drawer: ^1.2.1
+  flutter_native_splash: ^0.3.2
+  flutter_hamburger_scaffold: ^0.1.0+1
+  simple_drawer: ^0.0.10
+  flutter_custom_cards: ^0.0.3
+
 
 dev_dependencies:
   flutter_test:

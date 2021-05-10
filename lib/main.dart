@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'price_screen.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 
 
 void main() => runApp(MyApp());
@@ -10,8 +11,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
-          primaryColor: Colors.red[400],
-          scaffoldBackgroundColor: Colors.grey[850]),
+          primaryColor: Colors.blueGrey,
+          scaffoldBackgroundColor: Colors.transparent,),
       home: PriceScreen(),
 
     );
