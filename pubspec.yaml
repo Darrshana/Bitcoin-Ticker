@@ -1,33 +1,4 @@
-<<<<<<< HEAD
-name: bitcoin_ticker
-description: A Cryptocurrency Price Tracker.
-version: 1.0.0+1
 
-environment:
-  sdk: ">=2.1.0 <3.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-
-  cupertino_icons: ^0.1.2
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
-flutter:
-
-  uses-material-design: true
-
-  fonts:
-    - family : 'KiwiMaru-Medium'
-
-      fonts:
-        - asset : fonts/KiwiMaru-Medium.ttf
-
-
-=======
 name: bitcoin_ticker
 description: A Cryptocurrency Price Tracker.
 version: 1.0.0+1
@@ -64,4 +35,4 @@ flutter:
         - asset : fonts/KiwiMaru-Medium.ttf
 
 
->>>>>>> e3532335dae7a6063db9f20a10fbf793621fca43
+
